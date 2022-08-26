@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @ghost11411
 - 👀 I’m interested in Bash, Python, Bug Bounty, CTF. 
-- 🌱 I’m currently learning Cybersecurity
-- 📫 Reach me: souravm297@gmail.com 
+- 🌱 I’m currently learning Cybersecurity.
