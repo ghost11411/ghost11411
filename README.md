@@ -17,9 +17,9 @@
 </p>
 
 <h2> 📍 &nbsp;Visitor's Count:</h2>
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ghost11411&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=visitors)
-  
-  ![VisitorCount](https://profile-counter.glitch.me/{ghost11411}/count.svg)  
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ghost11411&title=visitors" alt="Visitor count" />
+</p>
 </a>
 
 
