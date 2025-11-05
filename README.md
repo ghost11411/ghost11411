@@ -14,10 +14,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a class="mailto" href="mailto:souravm297@gmail.com" target="blank"><img align="center" width="40px" height="30" alt="gmail" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"> 
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discordapp.com/users/532428044334399488" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" height="35" width="40" />
-  </a>
 </p>
 
 # <h3 align="center">Languages and Tools:</h3>
