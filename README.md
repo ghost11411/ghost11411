@@ -13,9 +13,12 @@
 <a href="https://linkedin.com/in/souravm297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvz297" height="30" width="40" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a class="mailto" href="mailto:souravm297@gmail.com" target="blank"><img align="center" width="40px" height="30" alt="gmail" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"> 
-  </a>  
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/your-invite-code" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" height="35" width="40" />
+  </a>
 </p>
-
 
 # <h3 align="center">Languages and Tools:</h3>
 <p align="center">
