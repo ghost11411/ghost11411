@@ -1,56 +1,34 @@
-<!-- README: Cyberpunk / Hacker Theme -->
-<h1 align="center">👻 Ghost — Cybersecurity / Network Engineer</h1>
+<!-- README: Clean Professional Theme -->
+<h1 align="center">Sourav Mishra (Ghost) — Cybersecurity Engineer</h1>
 
 <p align="center">
-  <img src="assets/banner-cyberpunk.png" alt="cyberpunk banner" width="100%"/>
+  <img src="assets/banner-professional.png" alt="professional banner" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=F75C7E&center=true&vCenter=true&width=600&height=48&lines=PentestLab+Author;Network+Engineer;Ethical+Hacker;Always+Learning" alt="typing"/>
+  <a href="https://linkedin.com/in/souravm297"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:souravm297@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/ghost11411"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
 
-# 🧠 About Me
-- Passionate about **offensive security**, network hardening, and building realistic pentest labs.  
-- I create automation & Docker-based labs to simulate real-world attack surfaces and practice exploitation.  
-- Always exploring new tools, CTFs, and privilege escalation techniques.
+## 👋 About
+I design and run custom penetration testing labs, automate realistic attack scenarios using Docker and Python, and research privilege escalation and post-exploitation techniques. Background in network engineering and hands-on red-team tooling.
 
 ---
 
-# 🛠 Tech & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,docker,linux,git" alt="tools" />
-</p>
-
-**Security tools:** Nmap • Metasploit • Burp Suite • Wireshark
+## 🧰 Skills
 **Languages:** Python • Bash
+**Platforms:** Linux • Docker
+**Security:** Nmap • Burp Suite • Wireshark • Metasploit
 
 ---
 
-# 📊 GitHub Stats
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghost11411&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost11411&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghost11411&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost11411&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
-
-# 🔗 Connect
-<p align="center">
-  <a href="https://linkedin.com/in/souravm297">LinkedIn</a> •
-  <a href="mailto:souravm297@gmail.com">Email</a> •
-  <a href="https://instagram.com/sourav_mishra141">Instagram</a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{ghost11411}/count.svg" alt="visitor-counter"/>
-</p>
-
-<!-- NOTES: 
- - Replace assets/banner-cyberpunk.png with your neon/terminal banner.
- - Use a dark banner image with neon accents (purple/pink/teal).
- - Keep the typing SVG colors consistent with your banner (F75C7E or similar).
--->
