@@ -16,12 +16,6 @@
   </a>  
 </p>
 
-<h2> 📍 &nbsp;Visitor's Count:</h2>
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ghost11411&title=visitors" alt="Visitor count" />
-</p>
-</a>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
